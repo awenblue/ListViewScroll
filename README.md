@@ -2,6 +2,7 @@
 listview上拉加载下一页
 
 使用方式：
+
 1.Activity实现接口ListViewScrollHelper.NextPage, ListViewScrollHelper.InitAdapter
 
 2.在oncreate函数中初始化
